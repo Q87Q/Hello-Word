@@ -1,2 +1,6 @@
 # Hello-Word
-print "hello-word"
+int number;
+print ("hello-word");
+scanf("%d",&number);
+print ("%d\n",number);
+return 0;
